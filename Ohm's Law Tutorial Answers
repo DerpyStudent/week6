@@ -1,0 +1,9 @@
+1. Lighting an LED needs a closed circuit because if there is a loss of current,
+   electrons will accumulate on one side a circuit, cancelling out the electric field.
+
+2. Voltage can be described as the difference or drop between two points.
+   Current is the rate at which charge flows through a circuit.
+   
+3. The mathematical relationship between Voltage, Current, and Resistance is known as Ohm's Law: V=IR.
+
+4. Using Ohm's Law, it can be determined that the current will be 0.24A.
